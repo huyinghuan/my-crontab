@@ -1,0 +1,8 @@
+{
+  "log2console": false,
+  "log2file": true,
+  "lineInfo": false,
+  "levelShow": true,
+  "dirs": ["logs"],
+  "filename": "$YYYYMMDD"
+}
